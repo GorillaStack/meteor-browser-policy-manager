@@ -2,7 +2,7 @@ Package.describe({
   name: 'gorillastack:manage-browser-policy',
   version: '0.1.0',
   summary: 'Administer browser-policy in your UI and update without a release',
-  git: '',
+  git: 'https://github.com/GorillaStack/meteor-browser-policy-manager',
   documentation: 'README.md'
 });
 
